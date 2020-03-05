@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>From physics to data science</title><link href="/" rel="alternate"></link><link href="/feeds/posts.atom.xml" rel="self"></link><id>/</id><updated>2020-03-04T11:48:00+01:00</updated><entry><title>My first Post</title><link href="/first-post.html" rel="alternate"></link><published>2020-03-04T11:48:00+01:00</published><updated>2020-03-04T11:48:00+01:00</updated><author><name>Emilio Torres</name></author><id>tag:,2020-03-04:first-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>From physics to data science</title><link href="http://emili-to.github.io/" rel="alternate"></link><link href="http://emili-to.github.io/feeds/posts.atom.xml" rel="self"></link><id>http://emili-to.github.io/</id><updated>2020-03-04T11:48:00+01:00</updated><entry><title>My first Post</title><link href="http://emili-to.github.io/first-post.html" rel="alternate"></link><published>2020-03-04T11:48:00+01:00</published><updated>2020-03-04T11:48:00+01:00</updated><author><name>Emilio Torres</name></author><id>tag:emili-to.github.io,2020-03-04:first-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
